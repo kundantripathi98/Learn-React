@@ -1,4 +1,4 @@
-# Welcome to React Learning Journey Repository! 🚀
+# Welcome to My Journey of Learning React! 🚀
 
 Hello, everyone! This repository is dedicated to my journey of learning React. Here, I'll be posting daily updates on what I've learned and projects related to React.
 

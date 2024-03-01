@@ -1,6 +1,6 @@
-## Namaste React Course by Akshay Saini
+## Learn React with Me
 
-## _Episode 01 - Inception_
+# _Episode 01 - Inception_
 
 ## Q: What is `Emmet`?
 

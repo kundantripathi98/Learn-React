@@ -1,0 +1,15 @@
+{
+  "name": "ep---2",
+  "version": "1.0.0",
+  "description": "It is a practice series",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "browserslist":[
+    "last 2 version"
+  ],
+  "author": "Kundan Tripathi",
+  "license": "ISC"
+}

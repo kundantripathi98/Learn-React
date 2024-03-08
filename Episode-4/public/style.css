@@ -75,7 +75,7 @@ ul li a{
     width: 390px;
     border-radius: 15px;
     margin-bottom: 25px;
-    /* background-color: rgb(92, 254, 144); */
+    background-color: rgb(92, 254, 144);
     transition: all 0.2s ease;
 }
 .res-card img{

@@ -23,10 +23,10 @@ let ResCard = (props) => {
             <div>
                 <h1>Nandhana Palace<span><i className="fa-solid fa-star"></i> 4.4</span></h1>
             </div>
-            <h2>loda</h2>
-            <h3> &#x2022; sjdfsakjd</h3>
-            <h4>kdjskd</h4>
-            <h5>dkjvbasdjvbs</h5>
+            <h2>350 For Two</h2>
+            <h3> &#x2022; 30-35 mins</h3>
+            <h4>Andhra</h4>
+            <h5>R.T.Nagar</h5>
         </div>
         </div>
     );

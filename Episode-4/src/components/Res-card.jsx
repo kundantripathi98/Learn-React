@@ -21,7 +21,7 @@ let ResCard = (props) => {
         <img alt="image" srcSet="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/502d6ccc803e95343d0324b15f8639da" />
         <div className="description">
             <div>
-                <h1>Restaurant name<span><i className="fa-solid fa-star"></i> 4.2</span></h1>
+                <h1>Nandhana Palace<span><i className="fa-solid fa-star"></i> 4.4</span></h1>
             </div>
             <h2>loda</h2>
             <h3> &#x2022; sjdfsakjd</h3>

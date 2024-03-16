@@ -11,6 +11,7 @@ const heading = React.createElement(
   'Namaste React 🚀'
 );
 
+
 console.log(heading);
 
 // * JSX = JSX is a JavaScript Syntax which is easier to create React Elements

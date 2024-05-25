@@ -13,7 +13,7 @@ npm is lots of things:
 - The `npm` Registry is a public collection of packages of open-source code for` Node.js, front-end web apps, mobile apps, robots, routers`, and countless other needs of the JavaScript community.
 - `npm` alternative is `yarn`
 
-
+### How to initialize `npm`?
 
 ```
 npm init
